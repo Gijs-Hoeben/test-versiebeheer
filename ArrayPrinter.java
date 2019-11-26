@@ -7,5 +7,7 @@ public class ArrayPrinter {
 	
 	private void printarray() {
 		int[] getal = new int[5];
+		string text = "dit is de output "
+		systemoutprintln(text + getal)
 	}
 }
